@@ -2,6 +2,6 @@
   'use strict';
 
   angular
-    .module('mixdis', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngMessages', 'ngAria', 'ngRoute', 'ngMaterial', 'toastr']);
+    .module('mixdis', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngMessages', 'ngAria', 'ui.router', 'firebase', 'ngMaterial']);
 
 })();
